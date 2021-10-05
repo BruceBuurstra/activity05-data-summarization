@@ -190,7 +190,7 @@ college_recent_grads%>%
 
 Provide a discussion on how the `major_category` rankings compare.
 
-**Response**:
+**Response**: Women are popular in the categories Health, Psychology and Social Work, Interdisciplinary, and Education. Women are not very popular in Engineering, Computer and Mathematics, and Industrial Arts & Consumer Services.
 
 
 ![](README-img/noun_pause.png) **(Final) Planned Pause Point**: If you have any questions, contact your instructor. Otherwise feel free to continue on.
